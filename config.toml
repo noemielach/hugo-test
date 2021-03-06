@@ -1,6 +1,6 @@
 baseURL = "/"
-title = "Notepadium"
-theme = "hugo-notepadium"
+title = "hermit"
+theme = "hermit"
 copyright = "©2019 Notepadium."
 
 languageCode = "zh-cn"
