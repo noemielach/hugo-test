@@ -1,0 +1,6 @@
+baseurl="/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "hugo-notepadium"
+publishDir = "docs"
+themesDir = “themes”
