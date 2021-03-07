@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://noemielach.github.io/hugo-test/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Hugo Hermit"
